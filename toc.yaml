@@ -62,7 +62,7 @@ toc:
           links:
           - link:
               label: API Explorer
-              href: https://test.cloud.ibm.com/apidocs/event-notifications
+              href: https://cloud.ibm.com/apidocs/event-notifications
       - topicgroup:
           label: High availability and disaster recovery
           topics:
