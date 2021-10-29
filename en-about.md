@@ -22,7 +22,7 @@ subcollection: event-notifications
 # What is {{site.data.keyword.en_short}}? 
 {: #en-about}
 
- {{site.data.keyword.en_full}} is an event notification routing service that notifies you to critical events that occur in your {{site.data.keyword.Bluemix_notm}} account or triggers automated actions by using webhooks. You can filter and route event notifications from {{site.data.keyword.Bluemix_notm}} services like Monitoring, Security and Compliance Center, and Secrets Manager to email, SMS, and webhooks.
+ {{site.data.keyword.en_full}} is an event notification routing service that notifies you to critical events that occur in your {{site.data.keyword.Bluemix_notm}} account or triggers automated actions by using webhooks. You can filter and route event notifications from {{site.data.keyword.Bluemix_notm}} services like Monitoring, to email, SMS, and webhooks.
 {: shortdesc}
 
 ![Event notifications schema](images/en-schema.png "Event notifications schema"){: caption="Figure 1. {{site.data.keyword.en_short}} schema" caption-side="bottom" }
@@ -32,7 +32,7 @@ subcollection: event-notifications
 
 ### Centralized alert routing
 {: #en-features-routing}
-From a single dashboard, route event notifications from {{site.data.keyword.compliance_long}} (SCC), {{site.data.keyword.secrets-manager_full_notm}}, or {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.prf_hubshort}} to relevant stakeholders. Filter alerts by severity and choose a communication channel that is most appropriate, SMS for immediate priority and email for a secondary level of urgency.
+From a single dashboard, route event notifications from {{site.data.keyword.Bluemix_notm}} {{site.data.keyword.prf_hubshort}} to relevant stakeholders. Filter alerts by severity and choose a communication channel that is most appropriate, SMS for immediate priority and email for a secondary level of urgency.
 
 ### Filtered source events
 {: #en-features-filter}
