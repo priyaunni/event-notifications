@@ -27,6 +27,7 @@ toc:
           topics:
           - en-destination-email.md
           - en-destination-webhook.md
+          - en-destination-sms.md
 
   - navgroup:
       id: tutorial
